@@ -50,6 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC_Level_1-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 ## Projects
