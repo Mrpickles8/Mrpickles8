@@ -1,8 +1,7 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-artaud"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a professional with a profound interest in technology and a dedication to solving complex problems.
+I am a young professional with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
@@ -15,12 +14,12 @@ and response operations.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | link in creation|
+| Network Traffic Monitoring and Attack Detection | link in creation|
+| Perform memory forensics         | link in creation|
+| Incident Response Planning and Execution      |link in creation|
+| Phishing Unfolding                  | link in creation|
+| Scripting and Automation for Threat Mitigation | link in creation|
 
 ## Tools
 
@@ -44,6 +43,11 @@ and response operations.
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### IPS/IDS
+<div>
+    <img src="https://img.shields.io/badge/-Snort-F90101?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
+
 ### Forensics
 <div>
     <img src="https://img.shields.io/badge/-Volatility-4B275F?&style=for-the-badge&logoColor=white" />
@@ -63,5 +67,22 @@ and response operations.
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- Splunk SOC Lab implementation
+- Elastic SOC Lab implementation
+- Wireshark traffic analysis
+- Volatility3 memory forensics
+- Snort threat detection
+
+## Challenges
+
+- Investigating with Splunk - Identified a backdoor user by investing with Splunk, resulting in remote WMIC cmd, malicious 
+  powershell events and C2 beacon communicqtion. 
+- Benign - Detected a LOLBIN abuse (certutil.exe) to downloads malicious payload from a C2 server on a HR workstation 
+  using Splunk on Windows envent.
+- Tempest - Reconstructed a full attack chain using Sysmon, Wireshark, and TimelineExplorer; traced initial access via Folina 
+  exploit; identified base64 encoded C2 beacons and uncovered privilege escalation with persistence via rogue admin.
+- Snort Challenge - Live Attacks -Detected and blocked an SSH Brute-force attack (port 22) and a reverse shell C2 channel 
+  (port 4444) using Snort IPS mode. Wrote custom drop rules to server both connections in real time.
+- Secret Recipe - Conducted windows registry forensics investigating across 6 hives using Registry Explorer; recovering a 
+  accessed filenames, identified a backdoor account and tracing suspect activity via UserAssit artifacts.  
