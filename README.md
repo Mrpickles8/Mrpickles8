@@ -85,4 +85,6 @@ and response operations.
 - Snort Challenge - Live Attacks -Detected and blocked an SSH Brute-force attack (port 22) and a reverse shell C2 channel 
   (port 4444) using Snort IPS mode. Wrote custom drop rules to server both connections in real time.
 - Secret Recipe - Conducted windows registry forensics investigating across 6 hives using Registry Explorer; recovering a 
-  accessed filenames, identified a backdoor account and tracing suspect activity via UserAssit artifacts.  
+  accessed filenames, identified a backdoor account and tracing suspect activity via UserAssit artifacts.
+-  <a href="https://github.com/Mrpickles8/Snapped-Phish-ing-Line/tree/main">Snapped Phishing Line</a> - Investigated a large-scale phishing campaign by analyzing multiple artifacts including emails, URLs, and credential harvesting pages. The goal was to identify the threat actor's infrastructure and reconstruct the attack chain from initial delivery to credential exfiltration.
+- <a href="https://github.com/Mrpickles8/Invite-Only/tree/main">Invite Only</a> Analyzed a suspicious email invitation to identify embedded malicious content, trace the delivery mechanism, and document the indicators of compromise associated with the phishing attempt.
