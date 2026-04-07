@@ -74,7 +74,7 @@ and response operations.
 - Volatility3 memory forensics
 - Snort threat detection
 
-## Challenges
+## Challenges - CTF
 
 - Investigating with Splunk - Identified a backdoor user by investing with Splunk, resulting in remote WMIC cmd, malicious 
   powershell events and C2 beacon communicqtion. 
@@ -87,4 +87,6 @@ and response operations.
 - Secret Recipe - Conducted windows registry forensics investigating across 6 hives using Registry Explorer; recovering a 
   accessed filenames, identified a backdoor account and tracing suspect activity via UserAssit artifacts.
 -  <a href="https://github.com/Mrpickles8/Snapped-Phish-ing-Line/tree/main">Snapped Phishing Line</a> - Investigated a large-scale phishing campaign by analyzing multiple artifacts including emails, URLs, and credential harvesting pages. The goal was to identify the threat actor's infrastructure and reconstruct the attack chain from initial delivery to credential exfiltration.
-- <a href="https://github.com/Mrpickles8/Invite-Only/tree/main">Invite Only</a> Analyzed a suspicious email invitation to identify embedded malicious content, trace the delivery mechanism, and document the indicators of compromise associated with the phishing attempt.
+- <a href="https://github.com/Mrpickles8/Invite-Only/tree/main">Invite Only</a> - Analyzed a suspicious email invitation to identify embedded malicious content, trace the delivery mechanism, and document the indicators of compromise associated with the phishing attempt.
+- <a href="https://github.com/Mrpickles8/Disgruntled/tree/main">Disgruntled</a> - Performed a Linux forensic investigation on a compromised system used by a disgruntled insider. The objective was to identify malicious commands executed, files accessed or exfiltrated, and reconstruct the attacker's timeline using system artifacts.
+- <a href="https://github.com/Mrpickles8/Shadow-Trace/tree/main">Shadow Trace</a> - Conducted a forensic investigation on a Windows system to trace the activities of an attacker who moved laterally within a network. The goal was to identify the initial access vector, lateral movement techniques, and persistence mechanisms deployed.
