@@ -14,8 +14,8 @@ and response operations.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | link in creation|
-| Network Traffic Monitoring and Attack Detection | link in creation|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic</a>, |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>|
 | Perform memory forensics         | link in creation|
 | Incident Response Planning and Execution      |link in creation|
 | Phishing Unfolding                  | link in creation|
@@ -69,8 +69,8 @@ and response operations.
 ## Projects
 
 - Splunk SOC Lab implementation
-- Elastic SOC Lab implementation
-- Wireshark traffic analysis
+- <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic SOC Lab implementation</a>
+- <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>
 - Volatility3 memory forensics
 - Snort threat detection
 
