@@ -14,9 +14,9 @@ and response operations.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic</a>, |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic</a>, <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>|
-| Perform memory forensics         | link in creation|
+| Perform memory forensics         |  <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 </a>|
 | Incident Response Planning and Execution      |link in creation|
 | Phishing Unfolding                  | link in creation|
 | Scripting and Automation for Threat Mitigation | link in creation|
@@ -68,11 +68,11 @@ and response operations.
 
 ## Projects
 
-- Splunk SOC Lab implementation
+- <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk SOC Lab implementation</a>
 - <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic SOC Lab implementation</a>
 - <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>
-- Volatility3 memory forensics
-- Snort threat detection
+- <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 memory forensics</a>
+- <a href="https://github.com/Mrpickles8/Snort-Challenge---Challenge-2/tree/main">Snort threat detection</a>
 
 ## Challenges - CTF
 
