@@ -73,9 +73,3 @@ and response operations.
 - <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>
 - <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 memory forensics</a>
 - <a href="https://github.com/Mrpickles8/Snort-Challenge---Challenge-2/tree/main">Snort threat detection</a>
-
-- <a href="https://github.com/Mrpickles8/Boogeyman-3/tree/main">Boogeyman 3</a> - Investigated a full intrusion chain in Elastic SIEM — from HTA phishing delivery through C2, UAC bypass, Mimikatz credential dumping, WinRM lateral movement, DCSync, and ransomware deployment.
-- <a href="https://github.com/Mrpickles8/New-Hire-Old-Artifacts/tree/main">New Hire Old Artifacts</a> - Investigated a compromised Finance workstation using Splunk and Sysmon logs
-to identify credential theft tools, C2 communication, Windows Defender
-tampering, and malicious binary staging.
-- <a href="https://github.com/Mrpickles8/ExfilNode/tree/main">ExfilNode</a> - Conducted a Linux forensic investigation on a compromised server suspected of being used as an exfiltration node. The goal was to identify how the attacker gained access, what data was staged or exfiltrated, and what persistence mechanisms were deployed on the Linux system.
