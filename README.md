@@ -11,7 +11,7 @@ Junior Cloud Security Engineer with a SOC analyst foundation. Hands-on experienc
  
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Cloud Security & Infrastructure as Code         | <a href="https://github.com/Mrpickles8/durcissement-S3-AWS-AWS-S3-hardening-S3-AWS-H-rtung/tree/main">AWS Hardening with Terraform</a> |
+| Cloud Security & Infrastructure as Code         | <a href="https://github.com/Mrpickles8/durcissement-S3-AWS-AWS-S3-hardening-S3-AWS-H-rtung/tree/main">AWS S3 Hardening with Terraform</a> |
 | Secure Access & Secrets Management (SSM, Secrets Manager) | link in creation |
 | Network Segmentation & Defense in Depth (VPC, NACL, SG) | link in creation |
 | Data Protection across Storage (S3, EBS, EFS)   | link in creation |
@@ -88,7 +88,7 @@ In progress:
 </div>
 ## Projects
  
-- <a href="LIEN-VERS-TON-DEPOT-AWS">AWS Hardening with Terraform</a>
+- <a href="LIEN-VERS-TON-DEPOT-AWS">AWS S3 Hardening with Terraform</a>
 - <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk SOC Lab implementation</a>
 - <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic SOC Lab implementation</a>
 - <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>
