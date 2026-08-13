@@ -84,7 +84,7 @@ Obtained:
 In progress:
 <div>
 <img src="https://img.shields.io/badge/-AWS_Security_Specialty_(in_progress)-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-SC--200_(in_progress)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_SC--200_(in_progress)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 ## Projects
  
