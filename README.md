@@ -29,6 +29,7 @@ Junior Cloud Security Engineer with a SOC analyst foundation. Hands-on experienc
 <div>
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ### Network
