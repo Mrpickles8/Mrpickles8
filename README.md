@@ -21,9 +21,7 @@ Junior Cloud Security Engineer with a SOC analyst foundation. Hands-on experienc
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic</a>, <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>|
 | Perform memory forensics                        |  <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 </a>|
-| Incident Response Planning and Execution        | link in creation |
-| Phishing Unfolding                              | link in creation |
-| Scripting and Automation for Threat Mitigation  | link in creation |
+
  
 ## Tools
  
