@@ -90,11 +90,12 @@ Obtained:
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-SOC_Level_1_Completion-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe_Defending_AWS-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 In progress:
 <div>
 <img src="https://img.shields.io/badge/-AWS_Security_Specialty_(in_progress)-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_SC--200_(in_progress)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate_(in_progress)-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 ## Projects
  
