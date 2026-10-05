@@ -97,11 +97,4 @@ In progress:
 <img src="https://img.shields.io/badge/-AWS_Security_Specialty_(in_progress)-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_Solutions_Architect_Associate_(in_progress)-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
-## Projects
- 
-- <a href="LIEN-VERS-TON-DEPOT-AWS">AWS S3 Hardening with Terraform</a>
-- <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk SOC Lab implementation</a>
-- <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic SOC Lab implementation</a>
-- <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>
-- <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 memory forensics</a>
-- <a href="https://github.com/Mrpickles8/Snort-Challenge---Challenge-2/tree/main">Snort threat detection</a>
+
