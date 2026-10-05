@@ -5,19 +5,19 @@ I am a young professional with a profound interest in technology and a dedicatio
  
 ## Objective
  
-Junior Cloud Security Engineer with a SOC analyst foundation. Hands-on experience in log analysis, SIEM triage (Splunk, Elastic and Microsoft Sentinel) and incident response through 120+ lab rooms on TryHackMe, now building practical cloud security skills — hardening AWS infrastructure with Terraform (Infrastructure as Code) and applying least-privilege, encryption and audit-logging best practices. Business engineering background with proven analytical abilities and strong bilingual communication (EN/FR). Currently working towards the AWS Security Specialty and Microsoft SC-200 certifications. Seeking a role in cloud security or detection & response operations.
- 
+Cloud Engineer with a security-first mindset, I build AWS infrastructure and secure it from day one, deploying real environments with Terraform and GitHub Actions CI/CD across cost monitoring, automated backup and serverless uptime monitoring projects. My security foundation covers 130+ TryHackMe rooms. Bilingual EN/FR (TOEIC 915), currently working towards AWS Security Specialty and AWS Architect Associate. Open to Cloud Engineer and Cloud Security Engineer roles in France, Switzerland or remote.
+
 ## Skills
  
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Cloud Security & Infrastructure as Code         | <a href="https://github.com/Mrpickles8/durcissement-S3-AWS-AWS-S3-hardening-S3-AWS-H-rtung/tree/main">AWS S3 Hardening with Terraform</a> |
-| Secure Access & Secrets Management (SSM, Secrets Manager) | link in creation |
-| Network Segmentation & Defense in Depth (VPC, NACL, SG) | link in creation |
-| Data Protection across Storage (S3, EBS, EFS)   | link in creation |
-| Cloud Threat Detection & Investigation (GuardDuty, Inspector, Detective) | link in creation |
-| Detection Engineering & Detection-as-Code (Sentinel, KQL) | link in creation |
-| Multi-Cloud Security Monitoring (AWS + Azure)   | link in creation |
+| Cloud Security & Infrastructure as Code         | <a href="https://github.com/Mrpickles8/durcissement-S3-AWS-AWS-S3-hardening-S3-AWS-H-rtung/tree/main">AWS S3 Hardening with Terraform ✅ Deployed</a> |
+| Serverless Monitoring & Alerting | <a href="https://github.com/Mrpickles8/Website-uptime-monitor/tree/main">Website uptime monitor ✅ Deployed </a> | 
+| Automated Backup & Storage Optimization | <a href="https://github.com/Mrpickles8/Automatic-backup-system/tree/main">Automatic Backup System ✅ Deployed</a>|
+| Cost Monitoring & FinOps | <a href="https://github.com/Mrpickles8/Control-cost-cloud/tree/main">Control cost cloud ✅ Deployed</a> |
+| AI-Powered Customer Management | Customer Inquiry Manager 🔄 In progress  |
+| AI Inventory Management & Forecasting | AI Inventory Tracker 🔄 In progress |
+| Cloud Threat Detection & Investigation | SOC Multi-Cloud · AWS CloudTrail → Azure Sentinel 🔄 In progress |
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/Mrpickles8/Elastic-implementation/tree/main">Elastic</a>, <a href="https://github.com/Mrpickles8/Splunk-Implementation/tree/main">Splunk</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Mrpickles8/Data-Exfiltration-Detection/tree/main">Wireshark traffic analysis</a>|
 | Perform memory forensics                        |  <a href="https://github.com/Mrpickles8/Volatility3-forensics/tree/main">Volatility3 </a>|
@@ -30,6 +30,16 @@ Junior Cloud Security Engineer with a SOC analyst foundation. Hands-on experienc
     <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+
+### CI/CD pipeline 
+<div>
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+### Container
+<div>
+   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 ### Network
